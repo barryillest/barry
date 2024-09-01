@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
-
 Hi, I am Barry an Aspiring Web Developer, pleasure to meet you!
 
 💻 Tech Stack: <br>
