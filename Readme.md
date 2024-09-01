@@ -15,7 +15,7 @@ Hi, I am Barry an Aspiring Web Developer, pleasure to meet you!
 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=barryillest&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-✍️ Random Dev Quote: <br> <br>
+✍️ Random Dev Quote: <br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=barryillest&icon=0&color=0)](https://visitcount.itsvg.in)
