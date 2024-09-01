@@ -1,4 +1,3 @@
-💫 About Me:
 Hi, I am Barry an Aspiring Web Developer, pleasure to meet you!
 
 
