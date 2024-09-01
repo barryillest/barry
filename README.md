@@ -1,4 +1,4 @@
-Hi, I am Barry an Aspiring Web Developer, pleasure to meet you!
+#fff; Hi, I am Barry an Aspiring Web Developer, pleasure to meet you!
 
 
 💻 Tech Stack: <br>
